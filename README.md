@@ -14,3 +14,6 @@ This script allows users to measure the distance between two points on an image 
 2. Replace 'tooth.jpeg' with the path to your image.
 3. Run the script.
 4. Click on two points in the displayed image to measure the distance.
+
+Below we can see the result of our code:
+![Example](https://github.com/SaraBallkoci/OpenCV-measure/blob/master/result.PNG)
